@@ -27,7 +27,7 @@ public class HW2_150120007_P1 {
 			digitState++;
 		}
 		checkSum%=11;
-		
+		System.out.println();
 		
 		//Convert 10 to X and add the last digit to the result
 		if(checkSum == 10)
