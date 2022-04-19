@@ -7,7 +7,7 @@ public class HW2_150120007_P1 {
 
 		//Create a Scanner
 		Scanner input = new Scanner (System.in);
-		
+		System.out.println("hello");
 		//Get input from the user
 		System.out.print("Enter the first 9 digits of an ISBN as integer: ");
 		int userInput = input.nextInt();
